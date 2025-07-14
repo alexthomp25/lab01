@@ -1,0 +1,22 @@
+{
+    "background_color": {
+        "name": "White",
+        "hex": "#FFFFFF"
+    },
+    "predicted_cabbage_intake": 40,
+    "cabbage_rankings": {
+        "Savoy Cabbage": 1,
+        "Napa Cabbage": 1,
+        "Red Cabbage": 1,
+        "Green Cabbage": 1
+    },
+    "cabbage_prices": {
+        "Savoy Cabbage": 5,
+        "Napa Cabbage": 3,
+        "Red Cabbage": 5,
+        "Green Cabbage": 2
+    },
+    "selected_cabbage_orders": [],
+    "total_amount_due": 0.0,
+    "spin_result": "nothing."
+}
